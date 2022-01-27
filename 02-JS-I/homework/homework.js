@@ -246,9 +246,7 @@ function esVocal(letra){
   } else {
   return "Es consonante";
   }
-  }
-
-
+  
 
 // No modificar nada debajo de esta línea
 // --------------------------------
